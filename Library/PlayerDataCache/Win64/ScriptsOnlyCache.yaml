@@ -1649,4 +1649,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/ManMenu1.unity
   - Assets/Scenes/OutdoorsScene.unity
   - Assets/Scenes/DeathScene.unity
-  playerPath: C:/Users/micha/Desktop/The_Dark_BackUp/GameBuilds/FinalProjectBuild/The_Dark.exe
+  playerPath: C:/Users/micha/Desktop/The_Dark_GraphicsFinal/GameBuilds/FinalProjBuild/The_Dark.exe
