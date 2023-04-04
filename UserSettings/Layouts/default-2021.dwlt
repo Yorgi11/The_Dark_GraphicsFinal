@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 413.33337
     height: 811.3333
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 47
+  controlID: 208
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 53
+  controlID: 19
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 54
+  controlID: 20
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -473,7 +473,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 06fbffff406900005e740000
+      m_ExpandedIDs: d834feff2635feff7836feff9215ffffa015ffff06fbffffca6a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -574,7 +574,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 24.666666}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-transform-toolbar
@@ -706,7 +706,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 0
-      snapOffset: {x: 0, y: 24.666666}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Particles
@@ -724,7 +724,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -76.19258, y: 3.0359125, z: -10.109918}
     speed: 2
-    m_Value: {x: 0.47977543, y: 0.000027656555, z: 10.303561}
+    m_Value: {x: -76.19258, y: 3.0359125, z: -10.109918}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -773,11 +773,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0021251081, y: -0.9952708, z: 0.02239736, w: 0.09454826}
     speed: 2
-    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Value: {x: -0.0021251081, y: 0.9952708, z: -0.02239736, w: -0.09454826}
   m_Size:
     m_Target: 3.8180795
     speed: 2
-    m_Value: 20.628574
+    m_Value: 3.8180795
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -843,22 +843,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/New
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs/New
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\micha\Desktop\The_Dark_BackUp
+  m_LastProjectPath: C:\Users\micha\Desktop\The_Dark_GraphicsFinal
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 74b70400
-    m_LastClickedID: 309108
-    m_ExpandedIDs: 00000000e6950000e8950000ea950000ec950000ee950000f0950000f2950000f4950000f6950000f8950000fa950000fc950000fe9500002096000000ca9a3bffffff7f
+    m_SelectedIDs: ee950000
+    m_LastClickedID: 38382
+    m_ExpandedIDs: 00000000ee950000f0950000f2950000f4950000f6950000f8950000fa950000fc950000fe9500000096000002960000049600000696000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -886,7 +886,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e6950000e8950000ea950000ec950000ee950000f0950000f2950000f4950000f6950000f8950000fa950000fc950000fe950000
+    m_ExpandedIDs: 00000000ee950000f0950000f2950000f4950000f6950000f8950000fa950000fc950000fe95000000960000029600000496000006960000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -913,7 +913,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000a47200007c6a0000a07900003678000000000000b88303007412020056800000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -986,7 +986,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-    m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
