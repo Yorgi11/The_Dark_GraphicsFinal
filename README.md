@@ -46,6 +46,7 @@ Presentation: https://docs.google.com/presentation/d/1fISQ-rJypNm8CEsS6Y9XYnj23u
 April 4, 2023
 
 Contributing Members: Michael Giorgi
+Build: The_Dark_GraphicsFinal/GameBuilds/FinalProjBuild/
 
 Welcome to my video presentation on the technical aspects of my game's visual design. In this video, we will be discussing the shaders, texturing, color grading, and particle effects used to create the game's unique visual 
 atmosphere.
