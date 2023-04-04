@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelPart
+  - Clue
+  - Puzzle
+  - HitMarker
+  - CheckPoint
+  - HealthPickup
+  - PistolAmmo
+  - TextChange
+  - TomAmmo
+  - mgAmmo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - IgnorePlayer
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Gun
+  - Bullet
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
